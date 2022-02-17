@@ -8,6 +8,6 @@ public class DemoContoller {
 
     @GetMapping("/hello")
     public String greetMe(){
-        return "hello deepak, we are running argocd";
+        return "hello deepak, we are running argocd -- testing";
     }
 }
