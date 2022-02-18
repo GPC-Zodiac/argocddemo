@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: argocddemoapp
-          image: deepakbarwa/argocddemo:4
+          image: deepakbarwa/argocddemo:3
           ports:
             - containerPort: 8080
